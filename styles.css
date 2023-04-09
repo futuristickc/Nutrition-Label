@@ -92,3 +92,10 @@ p {
   .double-indent {
     margin-left: 2em;
   }
+
+  .end-note {
+    margin: 5px 0;
+    padding: 0 8px;
+    text-indent: -8px;
+    font-size: 0.6rem;
+  }
